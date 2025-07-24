@@ -5,3 +5,11 @@
 body{
     font-family: inter;
 }
+
+.noto-serif{
+    font-family: noto serif;
+}
+
+.orange{
+    color: #E95A08;
+}
